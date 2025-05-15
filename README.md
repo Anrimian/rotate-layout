@@ -30,7 +30,7 @@ Download
 ========
 
 ```groovy
-implementation 'rongi.rotate-layout:rotate-layout:3.0.0'
+implementation 'com.github.Anrimian:rotate-layout:3.0.0B'
 ```
 
 Features
